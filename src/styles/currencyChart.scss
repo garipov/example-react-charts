@@ -1,0 +1,22 @@
+.currencyChart {
+  width: 50%;
+  height: 50%;
+  background-color: white;
+  border: 1px solid #e2e2e2;
+  box-shadow: 0 0 10px rgba(0,0,0, 0.1);
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.selectSymbolContainer {
+  padding-bottom: 20px;
+}
+
+.chartContainer {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
